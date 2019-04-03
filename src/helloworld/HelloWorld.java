@@ -16,6 +16,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.print("Xin chao!");
+        System.out.print("Chao them mot lan nua!!!");
     }
     
 }
